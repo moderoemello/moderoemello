@@ -12,9 +12,9 @@ Welcome to my GitHub! I'm a cybersecurity enthusiast and automation engineer bas
 - Design secure, scalable infrastructure using Linux, cloud tools, and open-source tech
 - Reverse engineer tools and automate integration for business ops
 
-### 🧪 Featured Projects
+### 🧪 Recent Projects
 
-- **Bl4ckGlass** – Visual automation system using PyAutoGUI + LLMs for job applications and UI control  
+- **Bl4ckGlass** – Visual automation system using PyAutoGUI + LLMs for human-like automation and UI control  
 - **Bl4ckDashboard** – Real-time Node.js dashboard visualizing honeypot attack data from Cowrie  
 - **AI Agent Systems** – Modular architecture for multi-agent coordination using OpenAI and Replicate APIs
 

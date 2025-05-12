@@ -14,13 +14,14 @@ Welcome to my GitHub! I'm a cybersecurity enthusiast and automation engineer bas
 
 ### 🧪 Recent Projects
 
+- **businessIntel-Android – Andoid app that emprowers businesses to have a better relationship with their customers.
 - **Bl4ckGlass** – Visual automation system using PyAutoGUI + LLMs for human-like automation and UI control  
 - **Bl4ckDashboard** – Real-time Node.js dashboard visualizing honeypot attack data from Cowrie  
 - **AI Agent Systems** – Modular architecture for multi-agent coordination using OpenAI and Replicate APIs
 
 ### ⚙️ Tech Stack
 
-`Python` `Node.js` `Bash` `PyAutoGUI` `OpenCV` `Tesseract`  
+`Kotlin` `Python` `Node.js` `Bash` `PyAutoGUI` `OpenCV` `Tesseract`  
 `Docker` `Linux` `Apache` `SQLite` `MySQL`  
 `AWS` `CloudWatch` `S3` `Terraform`  
 `Nmap` `Wireshark` `Splunk` `pfSense`  
